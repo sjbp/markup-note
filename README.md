@@ -1,4 +1,4 @@
-# markup-note
+# markup-notes
 A simple app to take notes.
 
 # What do I want!?
